@@ -24,8 +24,7 @@ I'm an aspiring Software Engineer from Nigeria.
 - FIFA, PES, COD, PUBG. 🎮 
 
 # Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Kizito24)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Kizito24)](https://git.io/streak-stats)&theme=highcontrast
  # Tech Stack
  
 <code><img height="30" src="https://github.com/github/explore/blob/main/topics/html/html.png"></code>
