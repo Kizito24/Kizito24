@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Chiazor Kizito 
+# Hithere 👋, I'm Chiazor Kizito 
 
 <!--
 **Kizito24/Kizito24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 
 I'm an aspiring Software Engineer from Nigeria.
 
-### 🌱 I’m currently learning C programming language at ALX africa. 
+### About Me 
+
