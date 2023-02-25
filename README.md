@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 I'm an aspiring Software Engineer from Nigeria.
 
 # About Me
-- Studying Software Engineering at the Federal University of Technology, Akure.
-- Learning at ALX - Fullstack Development and Cloud Engineering.
-- Writing thoughts at Twitter.
+- Studying Software Engineering at the Federal University of Technology, Akure.🌱
+- Learning at ALX - Fullstack Development and Cloud Engineering.🔭
+- Find my writeups at Twitter.⚡
 - Python and C.
 
  # Tech Stack
