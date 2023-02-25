@@ -21,7 +21,7 @@ I'm an aspiring Software Engineer from Nigeria.
 - Studying Software Engineering at the Federal University of Technology, Akure.🌱
 - Learning at ALX - Fullstack Development and Cloud Engineering.🔭
 - Find my writeups at Twitter.⚡
-- FIFA, PES, COD, PUBG, name it, I've played it. 😺
+- FIFA, PES, COD, PUBG. 🎮 
 
 # Stats
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Kizito24)](https://git.io/streak-stats)
