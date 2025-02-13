@@ -19,8 +19,7 @@ I'm an aspiring Software Engineer from Nigeria.
 
 # About Me
 - Studying Software Engineering at the Federal University of Technology, Akure.🌱
-- Learning at ALX - Fullstack Development and Cloud Engineering.🔭
-- Find my writeups at Twitter.⚡
+- Completed ALX - Software engineeering and Backend Development.🔭
 
 # Stats
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Kizito24&theme=highcontrast)](https://git.io/streak-stats)
