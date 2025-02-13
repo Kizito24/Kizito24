@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm an aspiring Software Engineer from Nigeria.
+Dev, from Nigeria.
 
 # About Me
 - Studying Software Engineering at the Federal University of Technology, Akure.🌱
