@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Dev, from Nigeria.
+Dev.
 
 # About Me
 - Studying Software Engineering at the Federal University of Technology, Akure.🌱
