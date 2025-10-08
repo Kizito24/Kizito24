@@ -22,8 +22,7 @@ Here are some ideas to get you started:
 - Completed ALX - Software engineeering and Backend Development.🔭
 
 # Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Kizito24)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Kizito24&theme=dark)](https://git.io/streak-stats)
 
  # Tech Stack
  
