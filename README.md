@@ -1,4 +1,4 @@
-# Hello 👋, My name is Chiazor Kizito 
+# Chiazor Chinoyelum Kizito
 
 <!--
 **Kizito24/Kizito24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Dev.
+.dev
 
 # About Me
 - Studying Software Engineering at the Federal University of Technology, Akure.🌱
@@ -23,6 +23,8 @@ Dev.
 
 # Stats
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Kizito24)](https://git.io/streak-stats)
+
+
  # Tech Stack
  
 <code><img height="30" src="https://github.com/github/explore/blob/main/topics/html/html.png"></code>
